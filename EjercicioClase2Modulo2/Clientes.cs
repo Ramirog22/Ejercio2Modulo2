@@ -12,6 +12,7 @@ namespace EjercicioClase2Modulo2
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public bool Vip { get; set; }
+        public string VipStatus { get; set; }
 
     }
 }
